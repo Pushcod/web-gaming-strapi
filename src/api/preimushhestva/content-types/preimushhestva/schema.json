@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "preimushhestvas",
+  "info": {
+    "singularName": "preimushhestva",
+    "pluralName": "preimushhestvas",
+    "displayName": "Преимущества",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    },
+    "description": {
+      "type": "richtext",
+      "required": false
+    }
+  }
+}
